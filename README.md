@@ -1,5 +1,5 @@
 # M-ALG
 
-Practical work in algebraic analysis carried out in MATLAB
+Practical work in linear algebra using MATLAB.
 
 Author: Victor Bouvet
